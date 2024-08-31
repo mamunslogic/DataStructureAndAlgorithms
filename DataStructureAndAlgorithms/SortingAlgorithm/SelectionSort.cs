@@ -1,4 +1,5 @@
-﻿namespace DataStructureAndAlgorithms.SortingAlgorithm
+// SELECTION SORT
+namespace DataStructureAndAlgorithms.SortingAlgorithm
 {
     internal class SelectionSort
     {
